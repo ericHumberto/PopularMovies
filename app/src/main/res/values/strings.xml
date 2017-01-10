@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Settings-->
+    <string name="pref_title_list_sort_type_movie">Sort type movies</string>
+    <string name="pref_entry_popular">Popular</string>
+    <string name="pref_entry_top_rated">Top rated</string>
+    <string name="pref_entry_value_popular">POPULAR</string>
+    <string name="pref_entry_value_top_rated">TOP_RATED</string>
+    <string name="pref_key_list_sort_type_movie">key</string>
+
+    <string name="msg_internet_out">Internet is out</string>
+    <string name="msg_try_again">Try again</string>
+
+    <string name="movie_poster">Movie poster</string>
+    <string name="movie_minutes_sufix">min</string>
+    <string name="movie_vote_average_count_sufix">/10</string>
+</resources>
